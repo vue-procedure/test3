@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_app"]=self["webpackChunkmy_app"]||[]).push([[161],{1161:function(n,u,e){e.r(u),e.d(u,{default:function(){return c}});var t=function(){var n=this,u=n._self._c;return u("h1",[n._v("我是page1")])},r=[],a={data(){return{}}},l=a,p=e(1001),s=(0,p.Z)(l,t,r,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=161.67b746f5.js.map
